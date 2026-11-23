@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Scraped URLs and Data
+all_urls/
+Extracted_Data/
+Filtered_urls/
+
+# Web Checker output (if generated data)
+WebChecker/
+
+# Jupyter Notebook cache
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment variables
+.env

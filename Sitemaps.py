@@ -1,0 +1,119 @@
+Sitemaps_Links={
+    "BBC News":[
+        "https://www.bbc.com/afrique/sitemap.xml",
+        "https://www.bbc.com/arabic/sitemap.xml",
+        "https://www.bbc.com/hindi/sitemap.xml",
+        "https://www.bbc.com/pashto/sitemap.xml",
+        "https://www.bbc.com/persian/sitemap.xml",
+        "https://www.bbc.com/russian/sitemap.xml",
+        "https://www.bbc.com/sport/sitemap.xml",
+        "https://www.bbc.com/hausa/sitemap.xml",
+        "https://www.bbc.com/urdu/sitemap.xml",
+        "https://www.bbc.com/indonesia/sitemap.xml",
+        "https://www.bbc.com/mundo/sitemap.xml",
+        "https://www.bbc.com/tajik/sitemap.xml",
+        "https://www.bbc.com/turkce/sitemap.xml",
+        "https://www.bbc.com/uzbek/sitemap.xml",
+        "https://www.bbc.com/vietnamese/sitemap.xml",
+        "https://www.bbc.com/swahili/sitemap.xml",
+        "https://www.bbc.com/ukrainian/sitemap.xml",
+        "https://www.bbc.com/vietnamese/sitemap.xml",
+        "https://www.bbc.com/zhongwen/trad/sitemap.xml"
+    ],
+   
+    "CSS Tricks":[
+        "https://css-tricks.com/post-sitemap1.xml",
+        "https://css-tricks.com/post-sitemap2.xml",
+        "https://css-tricks.com/post-sitemap3.xml",
+        "https://css-tricks.com/post-sitemap4.xml",
+        "https://css-tricks.com/post-sitemap5.xml",
+        "https://css-tricks.com/post-sitemap6.xml",
+        "https://css-tricks.com/post-sitemap7.xml",
+        "https://css-tricks.com/post-sitemap8.xml",
+        "https://css-tricks.com/post-sitemap9.xml",
+        "https://css-tricks.com/post-sitemap10.xml",
+        "https://css-tricks.com/post-sitemap11.xml",
+        "https://css-tricks.com/post-sitemap12.xml",
+        "https://css-tricks.com/post-sitemap13.xml",
+        "https://css-tricks.com/post-sitemap14.xml",
+        "https://css-tricks.com/post-sitemap15.xml",
+        "https://css-tricks.com/post-sitemap16.xml",
+        "https://css-tricks.com/post-sitemap17.xml",
+        "https://css-tricks.com/post-sitemap18.xml",
+        "https://css-tricks.com/post-sitemap19.xml",
+        "https://css-tricks.com/post-sitemap20.xml"
+
+    ],
+    "FreeCodeCamp":[
+      "https://www.freecodecamp.org/news/sitemap-posts.xml"
+    ],
+    
+    "Engadget":[
+        "https://www.engadget.com/post-sitemap1.xml",
+        "https://www.engadget.com/post-sitemap2.xml",
+        "https://www.engadget.com/post-sitemap3.xml",
+        "https://www.engadget.com/post-sitemap4.xml",
+        "https://www.engadget.com/post-sitemap5.xml",
+        "https://www.engadget.com/legacy-sitemap1.xml",
+        "https://www.engadget.com/legacy-sitemap2.xml",
+        "https://www.engadget.com/legacy-sitemap3.xml",
+        "https://www.engadget.com/legacy-sitemap4.xml",
+        "https://www.engadget.com/legacy-sitemap5.xml",
+        "https://www.engadget.com/legacy-sitemap6.xml",
+        "https://www.engadget.com/legacy-sitemap7.xml",
+        "https://www.engadget.com/legacy-sitemap8.xml",
+        "https://www.engadget.com/legacy-sitemap9.xml",
+        "https://www.engadget.com/legacy-sitemap10.xml",
+        "https://www.engadget.com/legacy-sitemap11.xml",
+        "https://www.engadget.com/legacy-sitemap12.xml",
+        "https://www.engadget.com/legacy-sitemap13.xml",
+        "https://www.engadget.com/legacy-sitemap14.xml",
+        "https://www.engadget.com/legacy-sitemap15.xml",
+        "https://www.engadget.com/legacy-sitemap16.xml",
+        "https://www.engadget.com/legacy-sitemap17.xml",
+        "https://www.engadget.com/legacy-sitemap18.xml",
+        "https://www.engadget.com/legacy-sitemap19.xml",
+        "https://www.engadget.com/legacy-sitemap20.xml",
+        "https://www.engadget.com/legacy-sitemap21.xml",
+        "https://www.engadget.com/legacy-sitemap22.xml",
+        "https://www.engadget.com/legacy-sitemap23.xml",
+        "https://www.engadget.com/legacy-sitemap24.xml",
+        "https://www.engadget.com/legacy-sitemap25.xml",
+        "https://www.engadget.com/legacy-sitemap26.xml",
+        "https://www.engadget.com/legacy-sitemap27.xml",
+        "https://www.engadget.com/legacy-sitemap28.xml",
+        "https://www.engadget.com/legacy-sitemap29.xml",
+        "https://www.engadget.com/legacy-sitemap30.xml"
+    ],
+    
+    "Dawn":[
+        "https://www.dawn.com/feeds/sitemap"
+    ],
+    "Fortune":[
+        "https://fortune.com/sitemap_index.xml",
+        "https://fortune.com/education/sitemap_index.xml",
+        "https://fortune.com/company/sitemap_index.xml",
+        "https://fortune.com/ranking/sitemap.xml",
+        "https://fortune.com/ranking/items/sitemap.xml",
+        "https://fortune.com/author/sitemap_index.xml",
+        "https://fortune.com/press-releases/sitemap_index.xml"
+    ],
+    
+    "NBC News":[
+        "https://www.nbcnews.com/sitemap/nbcnews/sitemap-select.xml",
+        "https://www.nbcnews.com/sitemap/nbcnews/sitemap-2026-11-article.xml",
+        "https://www.nbcnews.com/sitemap/nbcnews/sitemap-curations",
+        "https://www.nbcnews.com/politics/election-results/sitemap.xml",
+        "https://www.nbcnews.com/sitemap/nbcnews/sitemap-news",
+        "https://www.nbcnews.com/sitemap/nbcnews/sitemap-select.xml"
+    ],
+    
+    "ARY News":[
+        "https://arynews.tv/sitemap/news_sitemap.xml",
+        "https://arynews.tv/sitemap/category_sitemap.xml"
+    ],
+    "CNN":[
+        "https://www.cnn.com/sitemap/news.xml"
+    ],
+   
+}
